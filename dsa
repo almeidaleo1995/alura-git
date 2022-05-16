@@ -1,0 +1,42 @@
+[33mcommit 882c87305054c1a65752bf736a9824ba2d083ebc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Mon May 16 17:41:15 2022 -0300
+
+    ajste
+
+[33mcommit 2b53e89d0f1b0db83f1045d8cf32744779a2650c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Mon May 16 17:34:30 2022 -0300
+
+    ajustando
+
+[33mcommit 976090dfa86043f14520cc79f9c55446d900e306[m[33m ([m[1;32majuste[m[33m)[m
+Merge: 4836f21 3f5cc49
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Sat May 14 18:28:56 2022 -0300
+
+    Merge branch 'main' of https://github.com/almeidaleo1995/alura-git
+
+[33mcommit 4836f216912e93362a101b57b9ee15bd8de3ab07[m[33m ([m[1;31morigin/lista[m[33m)[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Sat May 14 18:25:51 2022 -0300
+
+    adicionando curso
+
+[33mcommit 3f5cc49106fc04bbf4b2c8f579852a84ef74adc8[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Sat May 14 18:21:38 2022 -0300
+
+    alterando nome do titulo
+
+[33mcommit 20682a0502f1200b0b4a606a2ac7c3f7b0173f0f[m[33m ([m[1;31mlocal/master[m[33m)[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Sat May 14 17:34:51 2022 -0300
+
+    add gitignore
+
+[33mcommit 88e95c243bec20a63340b1b69d850deecafb0db7[m
+Author: Leonardo Almeida <almeidaleo1995@gmail.com>
+Date:   Sat May 14 17:26:36 2022 -0300
+
+    criando meu primeiro commit
